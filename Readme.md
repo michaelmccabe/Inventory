@@ -4,7 +4,7 @@ This project serves as a template for building well-structured, production-ready
 
 ## Core Technologies
 
-*   **Java 17**
+*   **Java 21**
 *   **Spring Boot 3:** For building the application.
 *   **Spring Data JPA:** For data persistence.
 *   **PostgreSQL:** As the relational database.
