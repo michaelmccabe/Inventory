@@ -13,7 +13,6 @@ permissions:
   contents: read
   actions: read
   security-events: write
-  dependencies: write
 
 on:
   push:
